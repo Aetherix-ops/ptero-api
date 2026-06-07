@@ -1,0 +1,33 @@
+{
+  "name": "@aetherix-ops/ptero-api",
+  "version": "1.0.0",
+  "description": "A modern Node.js library for the Pterodactyl Panel API. Supports both Client and Application API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "keywords": [
+    "pterodactyl",
+    "pterodactyl-api",
+    "ptero",
+    "panel",
+    "hosting",
+    "game-server",
+    "wings",
+    "nodejs"
+  ],
+  "author": "aetherix-ops",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Aetherix-ops/ptero-api.git"
+  },
+  "homepage": "https://github.com/Aetherix-ops/ptero-api#readme",
+  "bugs": {
+    "url": "https://github.com/Aetherix-ops/ptero-api/issues"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {}
+}
